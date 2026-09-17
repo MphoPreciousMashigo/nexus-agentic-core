@@ -22,7 +22,7 @@ During high-speed diagnostic runs, the orchestrator successfully handled intenti
 | Cycle 5 | **BREACH CATCH** | **298.94 ms (Spike)** | **Self-Healing Triggered:** Stabilized system via dynamic velocity reduction vectors. |
 
 ##  Project Stack & Environment Layout
-* **Language Core:** Python 3.11+ (syncio, dataclasses, json)
+* **Language Core:** Python 3.11+ (syncio, dataclasses, json)
 * **Testing Infrastructure:** pytest, pytest-asyncio
 * **Automation Workflow:** GitHub Actions Continuous Integration (CI) on Ubuntu-Latest
 * **Target Cloud Nodes:** IBM Watsonx AI (Granite 4.0 Core), Google Developer Agent Frameworks
